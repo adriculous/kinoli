@@ -81,3 +81,13 @@ I am also writing this repository README file to practice writing using Markdown
 - Links to other great anime/manga shrines and collectives.
 - If I'm able to, links to other CCS (and maybe Tsubasa Reservoir Chronicle) shrines and fansites (besides the fanlistings).
 - Link to [Let's Volt IN!](http://lets-volt.in)
+
+#### Disclaimers
+See "copyright notices" and expand it.
+
+#### Terms of Use
+Notes about using this shrine as a resource (ie. information for another similar site, etc.), providing credits where it's due, etc.
+
+#### Sources
+- *Card Captor Sakura* manga, English versions published by Tokyopop and Dark Horse Comics
+- [Minitokyo](http://minitokyo.net) - for any scans from official art books
