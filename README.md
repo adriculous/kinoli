@@ -3,7 +3,7 @@
 I just created a Git repository of my entire site so everyone can see how I'm working on it and how I plan to make it work. This README serves as a "news and updates" section before I actually start the production period.
 
 ## News & Updates
-
+- **[4/10/16]** Added tentative navigation menu sections.
 - **[4/5/16]** Re-created a new Git repository on [GitHub](http://github.com/adriculous/kinoli) because Hugo would not install the fresh files in my already existing folder. It said that the directory should be empty. I copied/pasted the old README.md file to this new one. In addition, I made a few changes within the planned content of the shrine.
 - **[4/3/16]** Added more to the README.md for [Amassment](http://amassment.org) review/suggestions.
 - **[4/2/16]** I wrote this README.md file. That's about it.
@@ -38,6 +38,14 @@ In that way, it would help me track down the past things that I've made before I
 ### Weren't you writing your first tutorial on your new site, The NINPOJineous?
 
 I am also writing this repository README file to practice writing using Markdown. You notice how the extension of this file is ".md"?
+
+## Tentative Navigation Menu
+- About (this site, the series, why I built it, short mini-bio)
+- Heroes (character profiles)
+- Commentaries (essays and stuff about the characters)
+- Features (coming soon)
+- Contact
+- Exits
 
 ## Tentative Content Outline
 
