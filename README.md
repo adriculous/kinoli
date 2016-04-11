@@ -17,7 +17,7 @@ The following are what I'm going to use to build this shrine. It will take awhil
 - Hugo - static site generator. Because Hugo is built using Go, which is also the same language that Google's Material Design structure was built, I think it would be a perfect combination with layouts/themes built using Materialize CSS. If not, I'll probably just built the site manually.
 - PHP includes or regular HTML? I'm a bit skeptical with using PHP includes after Hugo generates all of the required HTML files. On the other hand, by using Hugo, I wouldn't be doing so much manual coding.
 - Google Fonts (obviously) with *some* premium fonts if needed. Definitely script or handwritten fonts.
-- Minimal images if possible. Use official images from the original manga, anime screenshots, old CCS artbooks (via [Fair Use Doctrine)[https://en.wikipedia.org/wiki/Fair_use]), any old official material. AVOID wallpapers (unless if official art is used) and fanart at all costs!! (requires permission and may also cause copyright infringement)
+- Minimal images if possible. Use official images from the original manga, anime screenshots, old CCS artbooks (think [Fair Use Doctrine](https://en.wikipedia.org/wiki/Fair_use)), any old official material. AVOID wallpapers (unless if official art is used) and fanart at all costs!! (requires permission and may also cause copyright infringement)
 
 ## Copyright Notices
 Cherry Blossom, Little Wolf &copy; 2001, 2016 Adrianne Marie P. Part of the [Let's Volt IN!](http://lets-volt.in) Network.
