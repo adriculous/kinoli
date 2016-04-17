@@ -3,6 +3,7 @@
 I just created a Git repository of my entire site so everyone can see how I'm working on it and how I plan to make it work. This README serves as a "news and updates" section before I actually start the production period.
 
 ## News & Updates
+- **[4/16/16]** Added a tentative test site host for [tutorial purposes](http://ninpojineous.adrimarie.us/category/projects/cblw/) - [Dropbox](http://dropbox.com).
 - **[4/10/16]** Added tentative navigation menu sections.
 - **[4/5/16]** Re-created a new Git repository on [GitHub](http://github.com/adriculous/kinoli) because Hugo would not install the fresh files in my already existing folder. It said that the directory should be empty. I copied/pasted the old README.md file to this new one. In addition, I made a few changes within the planned content of the shrine.
 - **[4/3/16]** Added more to the README.md for [Amassment](http://amassment.org) review/suggestions.
@@ -13,6 +14,7 @@ I just created a Git repository of my entire site so everyone can see how I'm wo
 The following are what I'm going to use to build this shrine. It will take awhile because this is also a learning process, in which I'm putting what I've learned from online classes to actual practice. I think using it on a personal hobby site is the best way to do it.
 
 - URL location - *http://sakusyao.lets-volt.in*
+- Test site hosting - [Dropbox](http://dropbox.com)
 - Materialize CSS for the overall skeleton layout.
 - Hugo - static site generator. Because Hugo is built using Go, which is also the same language that Google's Material Design structure was built, I think it would be a perfect combination with layouts/themes built using Materialize CSS. If not, I'll probably just built the site manually.
 - PHP includes or regular HTML? I'm a bit skeptical with using PHP includes after Hugo generates all of the required HTML files. On the other hand, by using Hugo, I wouldn't be doing so much manual coding.
