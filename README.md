@@ -43,13 +43,13 @@ In that way, it would help me track down the past things that I've made before I
 
 I am also writing this repository README file to practice writing using Markdown. You notice how the extension of this file is ".md"?
 
-## Tentative Navigation Menu
+## Tentative Navigation Menu **[UPDATE: 6/16/16]**
 - About (this site, the series, why I built it, short mini-bio)
-- Heroes (character profiles)
+- CCS (The series (and others) that featured Sakura & Syaoran)
+- Profiles (about Sakura & Syaoran)
 - Commentaries (essays and stuff about the characters)
-- Features (coming soon)
-- Contact
-- Exits
+- Omake (Extras - coming soon)
+- Exits (contact form included)
 
 ## Tentative Content Outline
 
