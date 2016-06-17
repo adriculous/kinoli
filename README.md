@@ -3,6 +3,7 @@
 I just created a Git repository of my entire site so everyone can see how I'm working on it and how I plan to make it work. This README serves as a "news and updates" section before I actually start the production period.
 
 ## News & Updates
+- **[6/16/2016]** Core/theme files uploaded to repo.
 - **[5/2016]** Demo page for CBLW now available on Dropbox. You can view it [here](https://dl.dropboxusercontent.com/u/182117471/cblw/index.html).
 - **[4/16/16]** Added a tentative test site host for [tutorial purposes](http://ninpojineous.adrimarie.us/category/projects/cblw/) - [Dropbox](http://dropbox.com).
 - **[4/10/16]** Added tentative navigation menu sections.
