@@ -1,0 +1,165 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+body {
+     /* Make everything MINTY! (like the old CBLW) */
+     background-color: #c0f3dd !important;　
+}
+nav ul a,
+nav .brand-logo {
+  color: #b03273;
+  font-family: 'Boogaloo', cursive;
+}
+.submenu {
+     color: #b03273;
+}
+.topcontainer {
+     text-align: center;
+}
+.side-nav {
+     background-color: #f8cbe2;
+}
+.side-nav li.active {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.side-nav a {
+  color: #ce5a96;
+  display: block;
+  font-size: 1rem;
+  height: 64px;
+  line-height: 64px;
+  padding: 0 30px;
+}
+
+.side-nav a:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.logo-badge {
+     display: inline-block;
+     vertical-align: middle;
+}
+#logo-container {
+     margin-top: 5px;
+}
+.fancy-header {
+     font-family: 'Courgette', cursive;
+     color: #046743;
+     text-shadow: 1px 2px #858585;
+}
+.fancy-header-darkbg {
+     font-family: 'Courgette', cursive;
+     color: #f8cbe2;
+     text-shadow: 1px 2px #afaaaa;
+}
+.mainhead {
+     color: #ce5a96;
+     font-family: 'Cherry Cream Soda', cursive;
+}
+.mainhead2 {
+     color: #0c6a42;
+     font-family: 'Cherry Cream Soda', cursive;
+}
+.newsdate {
+     font-weight: bold;
+     color: #a41c1c;
+}
+p {
+     line-height: 2rem;
+     color: #000 !important;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 550px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+footer.page-footer {
+  margin: 0;
+}
+.footer-copyright {
+     margin-top: 10px;
+}
+.footer-smalltext {
+     font-size: 12px;
+     font-style: italic;
+}
+
+/* Collapsible/Accordion Stuff */
+.collapsible-header {
+     color: #ce5a96;
+     background-color: #e6cff1;
+}
+.collapsible-body {
+     background-color: floralwhite;
+}
+p.collapsible-body {
+     line-height: 70%;
+}
+.collapsible-subheader {
+     color: #0c6a42;
+     font-family: 'Cherry Cream Soda', cursive;
+     font-size: 20px;
+     margin-left: 20px;
+     
+}
+.collapsible-text {
+     padding: 0 0 1em 0;
+}
+.collapsible-list {
+     margin: 0 0 30px 50px;
+}
+.collapsible-img {
+     margin: 15px 15px 15px 15px;
+}
+
+/* Cards */
+.card-title {
+     font-family: 'Cherry Cream Soda', cursive;
+}
+.card-list {
+     list-style-type: circle;
+     list-style-position: inside;
+     margin: 1em;
+}
+.card-list2 {
+     list-style-type: disc;
+     list-style-position: inside;
+     margin-left: 5em;
+}
